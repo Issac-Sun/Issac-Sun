@@ -6,7 +6,7 @@ When I'm not buried in code or papers, you can find me hitting the pavement for 
 
 🔭 Current focus: Advancing the state-of-the-art in point cloud analysis and representation for better 3D understanding and applications.
 
-🏃‍♂️ Marathon Achievements: Yulin Marathon - 2 hours 26 minutes, Langzhong Marathon(_TBD_). Go me！
+🏃‍♂️ Marathon Achievements: Yulin Marathon - 2 hours 26 minutes, Langzhong Marathon - 2 hours 19 minutes. Go me！
 
 🎲 Hobbies: Marathon running, Texas Hold'em poker, Basketball, Piano and diving into the latest tech trends.
 
