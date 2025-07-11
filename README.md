@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a passionate Computer Vision researcher currently pursuing my Master's degree at Xi'an Jiaotong University, focusing on the fascinating field of **3D/4D Understanding & LLM Fine-tuning/Agent & Federated Learning**. My journey in academia is driven by a deep curiosity to explore how we can better understand and represent the world around us through advanced algorithms and machine learning techniques.
+I'm a passionate Computer Vision researcher currently pursuing my Master's degree at Xi'an Jiaotong University, focusing on the fascinating field of **3D/4D Vison Understanding & LLM Fine-tuning/Agent & Federated Learning**. My journey in academia is driven by a deep curiosity to explore how we can better understand and represent the world around us through advanced algorithms and machine learning techniques.
 
 When I'm not buried in code or papers, you can find me hitting the pavement for my next marathon or honing my strategic skills in a game of Texas Hold'em. I recently completed the Langzhong Marathon with a personal best time of 2 hours and 19 minutes, which I'm quite proud of!
 
